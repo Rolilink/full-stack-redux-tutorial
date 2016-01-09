@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-redux-tutorial",
+  "version": "1.0.0",
+  "description": "A Vote App with React + Redux, tutorial at: http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rolilink/full-stack-redux-tutorial.git"
+  },
+  "author": "me@rolilink.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rolilink/full-stack-redux-tutorial/issues"
+  },
+  "homepage": "https://github.com/Rolilink/full-stack-redux-tutorial"
+}
